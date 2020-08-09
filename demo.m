@@ -3,7 +3,7 @@ close all
 
 load KADID_Data2.mat
 
-path = '/home/domonkos/Desktop/QualityAssessment/Databases/kadid10k/images';
+path = '/home/dvi/Desktop/QualityAssessment/Databases/kadid10k/images';
 
 net    = alexnet;
 layers = {'conv1', 'conv2', 'conv3', 'conv4', 'conv5'};
