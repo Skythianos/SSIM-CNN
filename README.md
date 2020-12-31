@@ -1,7 +1,7 @@
 # SSIM-CNN
-This repository contains the reimplementation of SSIM-CNN proposed by Amirshahi, Pedersen, and Beghdadi.<\br>
-This source code was used in the research paper "A combined full-reference image quality assessment method based on convolutional activation maps".<\br>
-If you use this code, please cite the following papers:<\br>
+This repository contains the reimplementation of SSIM-CNN proposed by Amirshahi, Pedersen, and Beghdadi.<br/>
+This source code was used in the research paper "A combined full-reference image quality assessment method based on convolutional activation maps".<br/>
+If you use this code, please cite the following papers:<br/>
 @inproceedings{amirshahi2018reviving,<\br>
   title={Reviving traditional image quality metrics using CNNs},<\br>
   author={Amirshahi, Seyed Ali and Pedersen, Marius and Beghdadi, Azeddine},<\br>
